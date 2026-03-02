@@ -1,0 +1,41 @@
+assessment_name,job_role,skills,test_type,duration_min,level
+.NET Framework 4.5,software developer,".net c# framework backend development",K,30,mid
+ASP .NET with C#,backend developer,"asp.net c# web development backend",K,13,mid
+.NET MVC,software developer,"mvc architecture routing validation asp.net",K,17,mid
+.NET MVVM,software developer,"mvvm architecture xaml data binding",K,5,mid
+.NET WCF,backend developer,"wcf services distributed systems .net",K,10,mid
+.NET WPF,desktop developer,"wpf ui desktop applications",K,10,mid
+.NET XAML,software developer,"xaml ui binding layouts",K,5,mid
+ADO.NET,backend developer,"ado.net database connectivity sql",K,10,mid
+Automata Front End,frontend developer,"html css javascript coding",S,30,all
+MS Excel,data analyst,"excel formulas data analysis spreadsheet",K,6,all
+Multitasking Ability,general tech roles,"problem solving multitasking cognitive ability",A,20,all
+Business Communications,IT Professional,"workplace communication documentation",K,35,all
+Verify Numerical Ability,Data Analyst,"numerical reasoning statistics analysis",A,20,all
+Split Screen Typing Test,Support,"typing speed accuracy keyboard",A,6,entry
+Accounts Payable Systems,Finance Systems,"accounting software financial data",K,10,entry
+Accounts Payable Simulation,Finance Systems,"financial workflow processing",S,15,entry
+Accounts Receivable,Finance Systems,"billing payments financial records",K,10,entry
+Accounts Receivable Simulation,Finance Systems,"invoice processing workflows",S,15,entry
+Global Skills Development Report,General Professional,"analytics assessment reporting",A,15,all
+Python Programming Test,Software Developer,"python programming debugging algorithms",K,30,mid
+Machine Learning Fundamentals,Data Scientist,"machine learning python statistics",K,25,mid
+SQL for Data Analysis,Data Analyst,"sql database querying analytics",K,20,mid
+React Developer Test,Frontend Developer,"javascript react frontend web",K,30,mid
+Frontend Web Test,Frontend Developer,"html css javascript responsive design",K,25,entry
+AWS Cloud Practitioner,Cloud Engineer,"aws cloud infrastructure devops",K,30,mid
+Docker Kubernetes Test,DevOps Engineer,"docker kubernetes containers ci cd",K,30,mid
+Cybersecurity Fundamentals,Cybersecurity Analyst,"network security threats monitoring",K,30,mid
+TensorFlow Developer,ML Engineer,"tensorflow deep learning python ai",K,35,advanced
+AWS Solutions Architect,Cloud Engineer,"aws architecture infrastructure deployment",K,35,advanced
+DevOps Engineer Assessment,DevOps Engineer,"ci cd docker kubernetes automation",K,25,mid
+NLP Engineer Assessment,AI Engineer,"nlp transformers python machine learning",K,35,advanced
+Power BI Analyst Test,Data Analyst,"powerbi dashboards data visualization",K,25,mid
+ETL Data Engineer Test,Data Engineer,"etl pipelines data warehouse spark",K,35,mid
+Spark Big Data Test,Data Engineer,"spark big data distributed computing",K,35,advanced
+Computer Vision Test,AI Engineer,"computer vision python opencv deep learning",K,35,advanced
+API Backend Developer,Backend Developer,"api development python backend microservices",K,30,mid
+Java Spring Boot Test,Backend Developer,"java spring boot backend microservices",K,30,mid
+Angular Frontend Test,Frontend Developer,"angular typescript frontend web",K,30,mid
+NodeJS Backend Test,Backend Developer,"nodejs api backend javascript",K,25,mid
+Linux DevOps Test,DevOps Engineer,"linux shell scripting devops automation",K,25,mid
